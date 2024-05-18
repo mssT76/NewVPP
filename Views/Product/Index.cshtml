@@ -1,0 +1,173 @@
+﻿@using PagedList.Core.Mvc;
+@model PagedList.Core.IPagedList<NewVPP.Models.Product>
+@{
+	ViewData["Title"] = "Shop - " + ViewBag.CurrentPage;
+	Layout = "~/Views/Shared/_Layout.cshtml";
+	int PageCurrent = ViewBag.CurrentPage;
+	int PageNext = PageCurrent + 1;
+}
+
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-section set-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<div class="breadcrumb__text">
+					<h1>Cửa hàng Văn phòng phẩm</h1>
+					<div class="breadcrumb__option">
+						<a style="color: black" href="/">Trang chủ </a>
+						<i class="fa fa-chevron-right"></i>
+						<span style="color: black">Danh sách sản phẩm</span>
+					</div>
+					@*<form asp-action="Search">
+						<input type="text" name="txtSearch" placeholder="Tìm kiếm">
+						<button type="submit" class="site-btn">SEARCH</button>
+					</form>*@
+					<form asp-action="Search" class="d-flex" style="display: flex ; justify-content: center; margin-top:10px">
+						<input class="form-control me-2" type="search" placeholder="Tìm kiếm" name="txtSearch" style="width:30%" />
+						<button class="btn btn-success"  type="submit">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Breadcrumb Section End -->
+<!-- Product Section Begin -->
+<section class="product spad">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3 col-md-5">
+				<div class="sidebar">
+					<div class="sidebar__item">
+						<h4>Danh mục</h4>
+						<ul>
+							<li><a>Đồ dùng học tập</a></li>
+							<li><a>Đồ dùng văn phòng</a></li>
+							<li><a>Quà tặng</a></li>
+						</ul>
+					</div>
+					<div class="sidebar__item">
+						<h4>Price</h4>
+						<div class="price-range-wrap">
+							<div class="price-range ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"
+								 data-min="10" data-max="540">
+								<div class="ui-slider-range ui-corner-all ui-widget-header"></div>
+								<span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+								<span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+							</div>
+							<div class="range-slider">
+								<div class="price-input">
+									<input type="text" id="minamount">
+									<input type="text" id="maxamount">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="sidebar__item sidebar__item__color--option">
+						<h4>Colors</h4>
+						<div class="sidebar__item__color sidebar__item__color--white">
+							<label for="white">
+								White
+								<input type="radio" id="white">
+							</label>
+						</div>
+						<div class="sidebar__item__color sidebar__item__color--gray">
+							<label for="gray">
+								Gray
+								<input type="radio" id="gray">
+							</label>
+						</div>
+						<div class="sidebar__item__color sidebar__item__color--red">
+							<label for="red">
+								Red
+								<input type="radio" id="red">
+							</label>
+						</div>
+						<div class="sidebar__item__color sidebar__item__color--black">
+							<label for="black">
+								Black
+								<input type="radio" id="black">
+							</label>
+						</div>
+						<div class="sidebar__item__color sidebar__item__color--blue">
+							<label for="blue">
+								Blue
+								<input type="radio" id="blue">
+							</label>
+						</div>
+						<div class="sidebar__item__color sidebar__item__color--green">
+							<label for="green">
+								Green
+								<input type="radio" id="green">
+							</label>
+						</div>
+					</div>
+					<div class="sidebar__item">
+						<h4>Popular Size</h4>
+						<div class="sidebar__item__size">
+							<label for="large">
+								Large
+								<input type="radio" id="large">
+							</label>
+						</div>
+						<div class="sidebar__item__size">
+							<label for="medium">
+								Medium
+								<input type="radio" id="medium">
+							</label>
+						</div>
+						<div class="sidebar__item__size">
+							<label for="small">
+								Small
+								<input type="radio" id="small">
+							</label>
+						</div>
+						<div class="sidebar__item__size">
+							<label for="tiny">
+								Tiny
+								<input type="radio" id="tiny">
+							</label>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-9 col-md-7">
+				<div class="row">
+					@if (Model != null)
+					{
+						foreach (var item in Model)
+						{
+							string url = $"/{item.ProductName}-{item.ProductId}.html";
+							<div class="col-lg-4 col-md-6 col-sm-6">
+								<div class="product__item">
+									<div class="product__item__pic set-bg">
+										<a href="@url">
+											<img src="~/images/products/@item.Thumb" alt="Ảnh sản phẩm">
+										</a>
+										<ul class="product__item__pic__hover">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-retweet"></i></a></li>
+											<li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+										</ul>
+									</div>
+									<div class="product__item__text">
+										<h6><a href="@url">@item.ProductName</a></h6>
+										<h5>@item.Price.Value.ToString("#,##0 VND")</h5>
+									</div>
+								</div>
+							</div>
+						}
+					}
+
+				</div>
+				<div style="margin-left: 320px" aria-label="product__pagination">
+					<ul class="pagination">
+						<pager class="page-container" options="@PagedListRenderOptions.Bootstrap4PageNumbersOnly" list="@Model" asp-area="" asp-controller="Product" asp-action="Index"></pager>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Product Section End -->

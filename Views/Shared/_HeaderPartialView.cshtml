@@ -1,0 +1,86 @@
+﻿@using Newtonsoft.Json;
+@using NewVPP.Models;
+@using Microsoft.AspNetCore.Http;
+
+<header class="header">
+	<div class="header__top">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-md-6">
+					<div class="header__top__left">
+						<ul>
+							<li><i class="fa fa-envelope"></i> vup2203@gmail.com</li>
+							<li>Chào mừng đến với văn phòng phẩm</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-6">
+					<div class="header__top__right">
+						<div class="header__top__right__social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-linkedin"></i></a>
+							<a href="#"><i class="fa fa-pinterest-p"></i></a>
+						</div>
+						<div class="header__top__right__auth">
+							@*@if (ViewContext.HttpContext.Session.GetString("UserName") == null)
+							{
+								<a asp-controller="Account" asp-action="Login"><i class="fa fa-user"></i>Đăng nhập </a>
+							}
+							else
+							{
+							var user = JsonConvert.DeserializeObject<Account>(ViewContext.HttpContext.Session.GetString("UserName"));
+							<a>Hello @user.FullName</a>
+							<div>
+								<a asp-controller="Account" asp-action="Logout">Đăng xuất</a>
+							</div>
+							}*@
+							@if (User.Identity.IsAuthenticated)
+							{
+								<a href="/tai-khoan-cua-toi.html">Tài khoản của tôi</a>
+								<div>
+									<a href="/dang-xuat.html">Đăng xuất</a>
+								</div>
+							}
+							else
+							{
+								<a href="/dang-nhap.html"><i class="fa fa-user"></i>Đăng nhập </a>
+							}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+					<div class="header__logo">
+						<a href="./index.html"><img src="img/logo.png" alt=""></a>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<nav class="header__menu">
+						<ul>
+							<li class="active"><a asp-controller="Home" asp-action="Index">Home</a></li>
+							<li><a asp-controller="Product" asp-action="Index">Shop</a></li>
+							<li><a asp-action="Contact" asp-controller="Home">Liên hệ</a></li>
+						</ul>
+					</nav>
+				</div>
+				<div class="col-lg-3">
+					<div class="header__cart">
+						<ul>
+							<li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
+							@await Component.InvokeAsync("NumberCart")
+						</ul>
+						<div class="header__cart__price">item: <span>$150.00</span></div>
+					</div>
+				</div>
+			</div>
+			<div class="humberger__open">
+				<i class="fa fa-bars"></i>
+			</div>
+		</div>
+	</div>
+</header>

@@ -1,0 +1,158 @@
+﻿@using Newtonsoft.Json;
+@using NewVPP.Models;
+@using Microsoft.AspNetCore.Http;
+
+@model List<NewVPP.ModelViews.CartItem>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h1>Thông tin đơn hàng</h1>
+                    <div class="breadcrumb__option">
+                        <a style="color : black" href="/">Trang chủ</a>
+                        <i class="fa fa-chevron-right"></i>
+                        <span style="color : black">Giỏ hàng</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+<!-- Shoping Cart Section Begin -->
+<section class="shoping-cart spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="shoping__cart__table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th class="shoping__product">Sản phẩm</th>
+                                <th>Giá tiền</th>
+                                <th>Số lượng</th>
+                                <th>Tổng tiền</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if(Model != null && Model.Count() > 0)
+                            {
+                                foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="shoping__cart__item">
+                                            <img width="200" height="200" src="~/images/products/@item.product.Thumb" alt="">
+                                            <h5>@item.product.ProductName</h5>
+                                        </td>
+                                        <td class="shoping__cart__price">
+                                            @item.product.Price.Value.ToString("#,##0")VND
+                                        </td>
+                                        <td class="shoping__cart__quantity">
+                                            <div class="quantity">
+                                                <div class="pro-qty">
+                                                    <input data-mahh="@item.product.ProductId" data-dongia="@item.product.Price" class="cartItem" type="number" value="@item.amount">
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="shoping__cart__total">
+                                            @item.TotalMoney.ToString("#,##0")VND
+                                        </td>
+                                        <td class="shoping__cart__item__close">
+                                            <input type="button" value="X" class="removecart btn btn-primary" data-mahh="@item.product.ProductId"/>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="shoping__cart__btns">
+                    <a href="/shop.html" class="primary-btn cart-btn">Tiếp tục mua hàng</a>
+                    <a href="#" class="primary-btn cart-btn cart-btn-right">
+                        <span class="icon_loading"></span>
+                        Upadate Cart
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="shoping__checkout">
+                    <h5>Tổng đơn hàng</h5>
+                    <ul>
+                        <li>Tổng thành tiền<span>@Model.Sum(x => x.TotalMoney).ToString("#,##0")VND</span></li>
+                    </ul>
+                     @if(User.Identity.IsAuthenticated)
+                    {
+                        <a href="/checkout.html" class="primary-btn">Thanh toán</a>
+
+                    }
+                    else {
+                        <a href="/dang-nhap.html?returnUrl=/checkout.html" class="primary-btn">Thanh toán</a>
+                        //<a href="@Url.Action("Login", "Account", new { returnUrl = Url.Action("Index", "Checkout") })" class="primary-btn">Thanh toán</a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Shoping Cart Section End -->
+@section Scripts{
+    <script>
+        $(function () {
+            function loadHeaderCart() {
+                $('#numberCart').load("/AjaxContent/NumberCart");
+            }
+            $(".removecart").click(function () {
+                var productid = $(this).attr("data-mahh");
+                $.ajax({
+                    url: "api/cart/remove",
+                    type: "POST",
+                    dataType: "JSON",
+                    data: { productID: productid },
+                    success: function (result) {
+                        if (result.success) {
+                            loadHeaderCart();//Reload lai gio hang
+                            location.reload();
+                        }
+                    },
+                    error: function (rs) {
+                        alert("Remove Cart Error !")
+                    }
+                });
+            });
+            $(".cartItem").click(function () {
+                var productid = $(this).attr("data-mahh");
+                var soluong = parseInt($(this).val());
+                $.ajax({
+                    url: "api/cart/update",
+                    type: "POST",
+                    dataType: "JSON",
+                    data: {
+                        productID: productid,
+                        amount: soluong
+                    },
+                    success: function (result) {
+                        if (result.success) {
+                            loadHeaderCart();//Reload lai gio hang
+                            window.location = 'cart.html';
+                        }
+                    },
+                    error: function (rs) {
+                        alert("Cập nhật Cart Error !")
+                    }
+                });
+            });
+        });
+    </script>
+}

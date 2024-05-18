@@ -1,0 +1,1485 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NewVPP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NewVPP.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\.DS_Store",
+      "PackagePath": "staticwebassets\\Adminassets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\custom-select.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\custom-select.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\logo-light-icon.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo-light-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\logo-light-text.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo-light-text.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo-text.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\1-old.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\1-old.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\1.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\2.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\3.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\3.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\4.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\5.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\6.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\7.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\8.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\agent.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\agent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\agent2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\agent2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\d1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\d2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\d3.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\d4.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\d5.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\images\\users\\profile.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\users\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\.DS_Store",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\.DS_Store",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\chartist\\dist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\chartist\\dist\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\chartist\\dist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\chartist\\dist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\popper.js\\dist\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\popper.js\\dist\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\popper.js\\dist\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\popper.js\\dist\\esm\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\popper.js\\dist\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\popper.js\\dist\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\popper.js\\dist\\popper.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\popper.js\\dist\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\popper.js\\dist\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\popper.js\\dist\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Adminassets\\libs\\popper.js\\dist\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\libs\\popper.js\\dist\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admindist\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fa-brands.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fa-brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fa-brands.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fa-brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fa-regular.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fa-regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fa-regular.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fa-regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fa-solid.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fa-solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fa-solid.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fa-solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\fa-brands.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\fa-brands.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\fa-regular.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\fa-regular.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\fa-solid.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\fa-solid.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\fa-brands.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\fa-brands.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\fa-regular.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\fa-regular.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\fa-solid.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\fa-solid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\themify-icons\\themify-icons.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\themify-icons\\themify-icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons-core.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons-core.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons-variables.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons-variables.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons-wind.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons-wind.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons-wind.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-beaufort.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-beaufort.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-day.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-day.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-direction.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-direction.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-misc.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-moon.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-moon.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-neutral.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-neutral.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-night.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-night.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-time.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-time.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-wind-names.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\css\\variables-wind-names.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-day.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-day.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-night.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-night.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-time.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-time.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-day.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-day.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-night.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-night.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-time.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-time.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\mappings\\wi-owm.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\mappings\\wi-owm.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-classes.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-classes.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-core.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-core.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-variables.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-wind.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-wind.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-wind.min.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons-wind.min.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons.min.less",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\less\\weather-icons.min.less"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-classes.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-classes.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-core.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-variables.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-wind.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons-wind.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons.min.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons.min.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons.scss",
+      "PackagePath": "staticwebassets\\Admindist\\css\\icons\\weather-icons\\sass\\weather-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Admindist\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\js\\app-style-switcher.js",
+      "PackagePath": "staticwebassets\\Admindist\\js\\app-style-switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Admindist\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\js\\pages\\dashboards\\dashboard1.js",
+      "PackagePath": "staticwebassets\\Admindist\\js\\pages\\dashboards\\dashboard1.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\Admindist\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Admindist\\js\\waves.js",
+      "PackagePath": "staticwebassets\\Admindist\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffcss\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Staffcss\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffcss\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\Staffcss\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffcss\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Staffcss\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffcss\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Staffcss\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffcss\\nice-select.css",
+      "PackagePath": "staticwebassets\\Staffcss\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffcss\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Staffcss\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffcss\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\Staffcss\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffcss\\style.css",
+      "PackagePath": "staticwebassets\\Staffcss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffjs\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Staffjs\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffjs\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Staffjs\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffjs\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Staffjs\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffjs\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Staffjs\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffjs\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\Staffjs\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffjs\\main.js",
+      "PackagePath": "staticwebassets\\Staffjs\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffjs\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\Staffjs\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\Staffjs\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Staffjs\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\bo-thuoc-ke-baby-bear.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\bo-thuoc-ke-baby-bear.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\but-chi-fast-food.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\but-chi-fast-food.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\but-chi-minion.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\but-chi-minion.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\day-deo-the-con-tho.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\day-deo-the-con-tho.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\hoa-huong-duong.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hoa-huong-duong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\hoa-sap-tulip.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hoa-sap-tulip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\hop-but-basic-pastel.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\hop-but-basic-pastel.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\hop-dung-kinh-cute-dog.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\hop-dung-kinh-cute-dog.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\lot-chuot-gau-dau.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\lot-chuot-gau-dau.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\ong-tiet-kiem-con-vit.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ong-tiet-kiem-con-vit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\phong-bi.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-bi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\so-vo-teddy-bear.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\so-vo-teddy-bear.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\thiep-3d-banh-sinh-nhat.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\thiep-3d-banh-sinh-nhat.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\thiep-3d-hpbd.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\thiep-3d-hpbd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\thuoc-ke-gau-dau.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\thuoc-ke-gau-dau.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\images\\products\\tui-dung-laptop.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\tui-dung-laptop.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Phong\\source\\repos\\NewVPP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NewVPP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.NewVPP.props",
+      "PackagePath": "build\\NewVPP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NewVPP.props",
+      "PackagePath": "buildMultiTargeting\\NewVPP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.NewVPP.props",
+      "PackagePath": "buildTransitive\\NewVPP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

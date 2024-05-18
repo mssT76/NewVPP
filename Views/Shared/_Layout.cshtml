@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Ogani Template">
+    <meta name="keywords" content="Ogani, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Shop của Phong</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/staffcss/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/staffcss/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/staffcss/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/staffcss/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="~/staffcss/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="~/staffcss/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/staffcss/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/staffcss/style.css" type="text/css">
+</head>
+
+<body>
+    <!-- Header Section Begin -->
+    @await Html.PartialAsync("_HeaderPartialView.cshtml")
+    <!-- Header Section End -->
+    @RenderBody()
+
+    <!-- Footer Section Begin -->
+    @await Html.PartialAsync("_FooterPartialView.cshtml")
+    <!-- Footer Section End -->
+    <!-- Js Plugins -->
+    <script src="~/staffjs/jquery-3.3.1.min.js"></script>
+    <script src="~/staffjs/bootstrap.min.js"></script>
+    <script src="~/staffjs/jquery.nice-select.min.js"></script>
+    <script src="~/staffjs/jquery-ui.min.js"></script>
+    <script src="~/staffjs/jquery.slicknav.js"></script>
+    <script src="~/staffjs/mixitup.min.js"></script>
+    <script src="~/staffjs/owl.carousel.min.js"></script>
+    <script src="~/staffjs/main.js"></script>
+
+    @await RenderSectionAsync("Scripts",required:false)
+
+</body>
+
+</html>

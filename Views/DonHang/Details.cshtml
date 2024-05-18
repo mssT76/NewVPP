@@ -1,0 +1,33 @@
+﻿@model NewVPP.ModelViews.XemDonHang
+@{
+    var total = Model.ChiTietDonHang.Sum(x => x.TotalMoney).Value.ToString("#,##0");
+}
+<h3>Thông tin đơn hàng: #@Model.DonHang.OrderId</h3>
+<br />
+<p>Ngày đặt hàng: @Model.DonHang.OrderDate</p>
+<p>Trạng thái đơn hàng: @Model.DonHang.TransactStatus.Status</p>
+<p>Tổng giá trị đơn hàng: <strong> @Model.DonHang.TotalMoney.Value.ToString("#,##0") VNĐ</strong></p>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-hover">
+        <tbody>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+
+            </tr>
+
+            @foreach (var item in Model.ChiTietDonHang)
+            {
+                <tr>
+                    <td>@item.Product.ProductName</td>
+                    <td>@item.Amount</td>
+                    <td>@item.Product.Price.Value.ToString("#,##0") VNĐ</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

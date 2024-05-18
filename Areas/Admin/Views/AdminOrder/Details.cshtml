@@ -1,0 +1,52 @@
+﻿@model NewVPP.Models.Order
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    List<OrderDetail> orderDetails = ViewBag.Chitiet;
+}
+
+<h1>Chi tiết đơn hàng</h1>
+
+<div>
+	<hr />
+
+	<span>Họ và Tên: @Model.Customer.FullName</span><br>
+	<span>Địa chỉ: @Model.Customer.Address</span><br>
+	<span>Số điện thoại: @Model.Customer.Phone</span><br>
+	<span>Ngày đặt hàng: @Model.OrderDate</span><br>
+	<span>Trạng thái đơn hàng: @Model.TransactStatus.Status</span>
+</div>
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (orderDetails != null && orderDetails.Count() > 0)
+            {
+                int i = 1;
+                foreach (var item in orderDetails)
+                {
+                    <tr>
+                        <th>@i</th>
+                        <td>@item.Product.ProductName</td>
+                        <td>@item.Amount</td>
+                        <td>@item.Price.Value.ToString("#,##0") VNĐ</td>
+                    </tr>
+                    i++;
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+<div>
+	<a asp-action="Index">Back to List</a>
+</div>
