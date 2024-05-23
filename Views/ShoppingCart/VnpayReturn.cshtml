@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "VnpayReturn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+
+    <div class="col-md-12 text-center">
+        <h1 class="">Thanh toán</h1>
+        @if (ViewBag.ThanhToanThanhCong != null)
+        {
+            <p>Bạn đã thanh toán thành công với @ViewBag.ThanhToanThanhCong!</p>
+        }
+        <p>@ViewBag.InnerText</p>
+    </div>
+</div>

@@ -544,6 +544,7 @@ C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\staticwebassets\msbuild.buil
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\scopedcss\bundle\NewVPP.styles.css
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\scopedcss\projectbundle\NewVPP.bundle.scp.css
@@ -553,4 +554,3 @@ C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\refint\NewVPP.dll
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\NewVPP.pdb
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\NewVPP.genruntimeconfig.cache
 C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\ref\NewVPP.dll
-C:\Users\Phong\source\repos\NewVPP\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css

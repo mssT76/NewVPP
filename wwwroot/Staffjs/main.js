@@ -75,6 +75,7 @@
         smartSpeed: 1200,
         autoHeight: false,
         autoplay: true,
+        autoplayTimeout: 2000,
         responsive: {
 
             0: {
