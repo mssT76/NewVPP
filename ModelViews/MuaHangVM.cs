@@ -15,5 +15,7 @@ namespace NewVPP.ModelViews
         public string Phone { get; set; }
         [Required(ErrorMessage = "Địa chỉ nhận hàng")]
         public string Address { get; set; }
+        public int TypePayment { get; set; }
+        public int TypePaymentVN { get; set; }
     }
 }

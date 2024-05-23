@@ -9,7 +9,7 @@ public partial class Order
 
     public int? CustomerId { get; set; }
 
-    public DateTime? OrderDate { get; set; }
+    public DateTime OrderDate { get; set; }
 
     public string? Note { get; set; }
 
@@ -20,6 +20,7 @@ public partial class Order
     public string? Address { get; set; }
 
     public int? TotalMoney { get; set; }
+    public int? TypePayment { get; set; }
 
     public virtual Customer? Customer { get; set; }
 

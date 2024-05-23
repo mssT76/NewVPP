@@ -103,6 +103,7 @@ public partial class NewWebContext : DbContext
             entity.Property(e => e.CustomerId).HasColumnName("CustomerID");
             entity.Property(e => e.OrderDate).HasColumnType("datetime");
             entity.Property(e => e.TransactStatusId).HasColumnName("TransactStatusID");
+            entity.Property(e => e.TypePayment).HasColumnName("TypePayment");
 
             entity.HasOne(d => d.Customer).WithMany(p => p.Orders)
                 .HasForeignKey(d => d.CustomerId)

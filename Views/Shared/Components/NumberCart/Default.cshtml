@@ -1,7 +1,7 @@
 ﻿@model List<NewVPP.ModelViews.CartItem>
 @if(Model != null && Model.Count() > 0)
 {
-	<li><a asp-controller="ShoppingCart" asp-action="Index"><i class="fa fa-shopping-bag"></i> <span>@Model.Count()</span></a></li>
+	<li><a asp-controller="ShoppingCart" asp-action="IndexCart"><i class="fa fa-shopping-bag"></i> <span>@Model.Count()</span></a></li>
 }
 else
 {
